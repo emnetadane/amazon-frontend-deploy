@@ -4,9 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
- 
-     "start": "node index.js",
-  "deploy": "firebase deploy",
+    "start": "node index.js",
+    "deploy": "firebase deploy",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -25,7 +24,8 @@
     "react-dom": "^18.3.1",
     "react-icons": "^5.4.0",
     "react-responsive-carousel": "^3.2.23",
-    "react-router-dom": "^7.0.2"
+    "react-router-dom": "^7.0.2",
+    "react-spinners": "^0.15.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
